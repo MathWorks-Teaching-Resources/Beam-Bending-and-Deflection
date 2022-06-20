@@ -1,4 +1,4 @@
-# Beam Bending and Deflection [![View Beam Bending and Deflection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)  
+# Beam Bending and Deflection [![View Beam Bending and Deflection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113670-beam-bending-and-deflection/)  
 **Curriculum Module**  
 _Created with R2022a. Compatible with R2022a and later releases._  
 
