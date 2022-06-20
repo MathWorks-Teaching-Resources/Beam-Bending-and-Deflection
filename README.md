@@ -13,6 +13,7 @@ Get started with the Beam Bending and Deflection curriculum module by downloadin
 
 ## Details ##
 **`Part1_BeamBending.mlx`**  
+<img width=500 src="https://user-images.githubusercontent.com/81383420/174607678-5a747acb-3a41-41a9-bfb7-248c0c7cdad2.png">
 
 **Learning Goals:**
 - Solve for beam support reactions symbolically.
@@ -22,6 +23,8 @@ Get started with the Beam Bending and Deflection curriculum module by downloadin
 
 ## ##
 **`Part2_BeamDeflection.mlx`**  
+
+<img width=500 src="https://user-images.githubusercontent.com/81383420/174606212-f77ec43f-500a-41dd-9888-93d74f3b763b.png">
 
 **Learning Goals:**
 - Solve boundary value problems using symbolic math.
