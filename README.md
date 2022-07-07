@@ -40,7 +40,7 @@ Get started with the Beam Bending and Deflection curriculum module by downloadin
 MATLAB, Symbolic Math Toolbox&trade;
 
 ## License ##
-The license for this module is available in the [LICENSE.md](license.md) file in this GitHub repository.
+The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Beam-Bending-and-Deflection/blob/main/LICENSE.md) file in this GitHub repository.
 
 ## Educator Resources ##
 * [Featured Courseware](https://www.mathworks.com/academia/courseware/course-materials.html)
