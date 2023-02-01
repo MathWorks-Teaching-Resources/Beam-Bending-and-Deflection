@@ -1,4 +1,4 @@
-# Beam Bending and Deflection [![View Beam Bending and Deflection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113670-beam-bending-and-deflection/)  
+# Beam Bending and Deflection [![View Beam Bending and Deflection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)  
 **Curriculum Module**  
 _Created with R2022a. Compatible with R2022a and later releases._  
 
@@ -13,7 +13,6 @@ Get started with the Beam Bending and Deflection curriculum module by downloadin
 
 ## Details ##
 **`Part1_BeamBending.mlx`**  
-<img width=500 src="https://user-images.githubusercontent.com/81383420/174607678-5a747acb-3a41-41a9-bfb7-248c0c7cdad2.png">
 
 **Learning Goals:**
 - Solve for beam support reactions symbolically.
@@ -24,8 +23,6 @@ Get started with the Beam Bending and Deflection curriculum module by downloadin
 ## ##
 **`Part2_BeamDeflection.mlx`**  
 
-<img width=500 src="https://user-images.githubusercontent.com/81383420/174606212-f77ec43f-500a-41dd-9888-93d74f3b763b.png">
-
 **Learning Goals:**
 - Solve boundary value problems using symbolic math.
 - Identify boundary conditions for different types of beam supports.
@@ -34,13 +31,13 @@ Get started with the Beam Bending and Deflection curriculum module by downloadin
 
 ## ##
 ## Suggested Prework ##
-[MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial that teaches the essentials of MATLAB.
+[MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – a free two-hour introductory tutorial that teaches the essentials of MATLAB.
 
 ## Products ##
 MATLAB, Symbolic Math Toolbox&trade;
 
 ## License ##
-The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Beam-Bending-and-Deflection/blob/main/LICENSE.md) file in this GitHub repository.
+The license for this module is available in the [LICENSE.md](license.md) file in this GitHub repository.
 
 ## Educator Resources ##
 * [Featured Courseware](https://www.mathworks.com/academia/courseware/course-materials.html)
