@@ -1,5 +1,5 @@
 # Beam Bending and Deflection 
-[![View Beam Bending and Deflection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113670-beam-bending-and-deflection?s_tid=ta_fx_results) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&file=Part1_BeamBending.mlx)
+[![View Beam Bending and Deflection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113670-beam-bending-and-deflection?s_tid=ta_fx_results) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj)
 
 **Curriculum Module**  
 _Created with R2022a. Compatible with R2022a and later releases._  
