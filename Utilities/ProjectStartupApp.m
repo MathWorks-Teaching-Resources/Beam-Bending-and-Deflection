@@ -266,7 +266,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
             app.ReviewText.WordWrap = 'on';
             app.ReviewText.FontSize = 18;
             app.ReviewText.Position = [16 243 245 69];
-            app.ReviewText.Text = 'Plese help us improve your experience by answering a few questions.';
+            app.ReviewText.Text = 'Please help us improve your experience by answering a few questions.';
 
             % Create ReviewTitle
             app.ReviewTitle = uilabel(app.TabReview);
