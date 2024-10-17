@@ -1,6 +1,10 @@
 
 # <span style="color:rgb(213,80,0)">Solid Mechanics: Beam Bending and Deflection</span>
 
+<<<<<<< HEAD
+=======
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113670-beam-bending-and-deflection) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=README.mlx)
+>>>>>>> b49b3212fa5d3eca85d96716ddd522c25b4fd5cc
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113670-beam-bending-and-deflection) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/REPO_NAME&project=MechanicsOfMaterials.prj&file=README.mlx)
 
