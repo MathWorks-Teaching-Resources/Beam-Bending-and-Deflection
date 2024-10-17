@@ -2,15 +2,16 @@ classdef SmokeTests < matlab.unittest.TestCase
 
     properties
         RootFolder
-    end
+        sparedEditors % Files already open when the test starts
+    end % properties
     
     properties (ClassSetupParameter)
         Project = {currentProject()};
-    end
+    end % ClassSetupParameter
 
     properties (TestParameter)
         File;
-    end
+    end % TestParameter
 
     methods (TestParameterDefinition,Static)
 
@@ -21,7 +22,7 @@ classdef SmokeTests < matlab.unittest.TestCase
             File = {File.name}; 
         end
 
-    end
+    end % Static TestParameterDefinition
 
     methods (TestClassSetup)
 
@@ -37,8 +38,28 @@ classdef SmokeTests < matlab.unittest.TestCase
             testCase.log("Running in " + version)
         end
 
-    end
+    end % TestClassSetup
+
+    methods(TestMethodSetup)
+        function recordEditorsToSpare(testCase)
+            testCase.sparedEditors = matlab.desktop.editor.getAll;
+            testCase.sparedEditors = {testCase.sparedEditors.Filename};
+        end
+    end % TestMethodSetup
     
+    methods(TestMethodTeardown)
+        function closeOpenedEditors_thenDeleteWorkingDir(testCase)
+            openEditors = matlab.desktop.editor.getAll;
+            for editor=openEditors(1:end)
+                if any(strcmp(editor.Filename, testCase.sparedEditors))
+                    continue;
+                end
+                % if not on our list, close the file
+                editor.close();
+            end
+        end
+    end % TestMethodTeardown
+
     methods(Test)
 
         function SmokeRun(testCase,File)
@@ -90,7 +111,7 @@ classdef SmokeTests < matlab.unittest.TestCase
 
         end
             
-    end
+    end % Test Methods
 
 
     methods (Access = private)
@@ -125,6 +146,6 @@ classdef SmokeTests < matlab.unittest.TestCase
             Path = PostFilePath;
         end
 
-    end
+    end % Private Methods
 
-end
+end % Smoketests
