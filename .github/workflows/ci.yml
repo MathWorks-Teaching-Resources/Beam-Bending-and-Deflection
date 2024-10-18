@@ -38,7 +38,7 @@ jobs:
         uses: matlab-actions/setup-matlab@v2
         with:
           release: ${{ matrix.MATLABVersion }}
-          products: MATLAB Symbolic_Math_Toolbox
+          products: MATLAB Symbolic_Math_Toolbox Deep_Learning_Toolbox
           # List required products above in the format shown (and uncomment them)
           # List of product strings:
           # Simulink

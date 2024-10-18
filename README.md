@@ -48,7 +48,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 ## Products
 
- *MATLAB* is used throughout. Tools from the Symbolic Math Toolbox are used frequently as well.
+ *MATLAB* is used throughout. Tools from the Symbolic Math Toolbox are used frequently as well. Deep Learning Toolbox is used specifically for the [minmax](https://www.mathworks.com/help/deeplearning/ref/minmax.html) function.
 
 
 # Scripts
