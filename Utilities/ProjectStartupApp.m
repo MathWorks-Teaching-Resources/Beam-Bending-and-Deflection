@@ -24,7 +24,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
     properties (Access = private)
         GitHubOrganization = "MathWorks-Teaching-Resources"; % Description
         GitHubRepository = "Beam-Bending-and-Deflection";
-        ImagePath {mustBeFile} = fullfile("Images","image_3.png"); 
+        ImagePath {mustBeFile} = fullfile("Images","image_4.png"); 
     end
 
     properties (Access = private)
