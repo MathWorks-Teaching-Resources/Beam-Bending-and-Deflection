@@ -61,7 +61,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 | <img src="Images/image_3.png" width="245" alt="image_3.png"> <br>  | • Solve for beam support reactions symbolically. <br> • Solve for the moment function of a loaded beam. <br> • Plot shear and moment diagrams. <br> • Compute the bending stress in a loaded beam. <br>  | • Mechanical Engineering <br> • Civil Engineering <br>   |
 |      |      |       |
 
-## [**BeamDeflection.mlx**]((https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=Scripts/BeamDeflection.mlx)
+## [**BeamDeflection.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=Scripts/BeamDeflection.mlx)
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
