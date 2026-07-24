@@ -52,7 +52,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
             
             % Copy title and set cover image
             app.ProjectName = currentProject().Name;
-            app.WelcomeTitle.Text = "Welcome to " + app.ProjectName; 
+            app.WelcomeTitle.Text = app.ProjectName; 
             app.ReviewTitle.Text = app.WelcomeTitle.Text;
             app.CoverImage.ImageSource = app.ImagePath;
 
