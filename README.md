@@ -2,13 +2,15 @@
 <a id="H_053613DF"></a>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113670-beam-bending-and-deflection) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/113670-beam-bending-and-deflection) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=README.m)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Beam-Bending-and-Deflection/TestedWith.json)](https://mathworks-teaching-resources.github.io/Beam-Bending-and-Deflection)
 
 **Curriculum Module**
 
-_Created with R2024b. Compatible with R2024b and later releases._
+_Compatible with MATLAB R2025a and later releases._
+
+For MATLAB R2024b or older, download the [legacy MLX version](https://github.com/MathWorks-Teaching-Resources/Beam-Bending-and-Deflection/releases/tag/mlx).
 
 # Information
 
@@ -40,11 +42,11 @@ This module assumes knowledge of basic solid mechanics theory and standard mecha
 
 ### **On MATLAB Online:**
 
-Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Mechanics-of-Materials&project=MechanicsOfMaterials.prj) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [MechanicsOfMaterials.prj](https://github.com/MathWorks-Teaching-Resources/Mechanics-of-Materials/blob/release/MechanicsOfMaterials.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [MechanicsOfMaterials.prj](https://github.com/MathWorks-Teaching-Resources/Beam-Bending-and-Deflection/blob/release/MechanicsOfMaterials.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start.
 
 Ensure you have all the required products ([listed below](#H_E850B4FF)) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**. 
 
@@ -59,7 +61,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 # Scripts
 <a id="H_BC8955C0"></a>
 
-## [**BeamBending.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=Scripts/BeamBending.mlx)
+## [**BeamBending.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=Scripts/BeamBending.m)
 
 |  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
 | :-- | :-- | :-- |
@@ -67,7 +69,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 <a id="H_17056DF7"></a>
 
-## [**BeamDeflection.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=Scripts/BeamDeflection.mlx)
+## [**BeamDeflection.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Beam-Bending-and-Deflection&project=MechanicsOfMaterials.prj&file=Scripts/BeamDeflection.m)
 
 |  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
 | :-- | :-- | :-- |
@@ -77,7 +79,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 # License
 
-The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Mechanics-of-Materials/blob/release/LICENSE.md).
+The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Beam-Bending-and-Deflection/blob/release/LICENSE.md).
 
 <a id="H_3DE08377"></a>
 
@@ -98,6 +100,6 @@ Feel free to explore our other [modular courseware content](https://www.mathwork
 
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Mechanics-of-Materials/blob/release/CONTRIBUTING.md) page on GitHub.
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Beam-Bending-and-Deflection/blob/release/CONTRIBUTING.md) page on GitHub.
 
 © Copyright 2026 The MathWorks, Inc
